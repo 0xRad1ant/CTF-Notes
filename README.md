@@ -209,4 +209,4 @@ Here are a few resources and knowledgebases to cover various topics. Starting wi
 - [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 - [GTFOBins](https://gtfobins.github.io/)
 
-Also feel free to get in touch with us on our [Discord](https://discord.gg/CWBmP9h7), we are all willing to help!
+Also, feel free to get in touch with me on our [LinkTree](https://linktr.ee/anshul_027), I am  willing to help!
